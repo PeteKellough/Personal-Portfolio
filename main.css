@@ -11,7 +11,7 @@ body {
   padding-top: 8px;
   background-color: #F4F6F6;
   position: fixed;
-  width: 99.6%;
+  width: 99%;
   opacity: 0.9;
   border: 7px outset #75AAFF;
   display:flex;
@@ -92,7 +92,7 @@ button:hover{
 }
 
 .certification {
-  height: 25%;
+  height: 30%;
   width: 25%;
   margin:5px;
   border: 5px ridge rgba(28,110,164,0.79);
